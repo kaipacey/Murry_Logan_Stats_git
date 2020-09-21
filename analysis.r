@@ -4,3 +4,6 @@ y=40*2 + rnorm(10,0,5)
 
 
 hey, thats pretty good
+
+
+noice 
