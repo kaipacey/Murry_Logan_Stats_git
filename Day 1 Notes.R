@@ -4,5 +4,3 @@
 
 # change diretory terminal: cd 
 
-git add (stage) 
-git commit (commit)
